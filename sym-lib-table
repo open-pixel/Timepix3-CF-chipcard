@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Timepix)(type Legacy)(uri ${KIPRJMOD}/Timepix.lib)(options "")(descr ""))
+  (lib (name medipix)(type Legacy)(uri ${KIPRJMOD}/medipix.lib)(options "")(descr ""))
+)

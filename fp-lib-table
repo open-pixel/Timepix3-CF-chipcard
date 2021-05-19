@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Timepix")(type "KiCad")(uri "${KIPRJMOD}/Timepix.pretty")(options "")(descr ""))
+  (lib (name "medipix")(type "KiCad")(uri "${KIPRJMOD}/medipix.pretty")(options "")(descr "")(disabled))
+  (lib (name "CERN")(type "KiCad")(uri "${KIPRJMOD}/CERN.pretty")(options "")(descr "")(disabled))
+  (lib (name "custom_logos")(type "KiCad")(uri "${KIPRJMOD}/custom_logos.pretty")(options "")(descr ""))
+)
